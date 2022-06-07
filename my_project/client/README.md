@@ -1,14 +1,3 @@
-# Primer paso
-- Realizamos el tutorial de React para crear una API: https://es.reactjs.org/docs/create-a-new-react-app.html#gatsby-focus-wrapper mediante terminal
-
-
-
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
